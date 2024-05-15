@@ -17,6 +17,7 @@
 -   ECMAScript is a standard for scripting languages.
 -   JavaScript is an implementation of ECMAScript standard.
 -   JavaScript is a trademark of Oracle Corporation So we user Javascript build on top of ECMAScript standard.
+-   ECMAScript follows ECMA-262 standard.
 
 ## ECMAScript Versions
 
