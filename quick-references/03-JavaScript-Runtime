@@ -1,0 +1,14 @@
+# JavaScript Runtime
+
+-   It is an environment which provides all the necessary components to run a javascript program.
+-   JavaScript engine is one component of the JavaScript runtime.
+
+## What else JavaScript runtime consists of?
+
+1. JavaScript Engine -> Call Stack (where the code is executed), Heap Memory (where the memory allocation happens)
+2. Web/Browser APIs(DOM, Storage, Timers(SetTimeout, SetIntervals)) -> MicroTask Queue, Callback/Task Queue, Event Loop
+
+-   Queues are used to store the tasks that are to be executed in the future (Async task waits here).
+-   Event Loop is a mechanism that makes sure that the code is executed in the correct order(Async tasks are performed in right order).
+
+This is the JavaScript runtime environment in the browser.
